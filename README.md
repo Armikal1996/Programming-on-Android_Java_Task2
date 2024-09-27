@@ -1,1 +1,3 @@
-# Programming-on-Android_Java_Task2
+Клонируйте проект локально с помощью git с github.
+Откройте проект в eclipse.
+Нажмите "ctrl + f11".
